@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "387360873841",
+    "firebase_url": "https://flavorprod-c49af-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flavorprod-c49af",
+    "storage_bucket": "flavorprod-c49af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387360873841:android:e14b01683683e1a7e66ad0",
+        "android_client_info": {
+          "package_name": "com.example.flavor.prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwBZNYkHYaE2EGD3cubzp9Vr-65AtNg3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

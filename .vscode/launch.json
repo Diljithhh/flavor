@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dev_web",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--dart-define=FLAVOR=dev", "--web-port=55774"]
+        },
+        {
+            "name": "prod_web",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--dart-define=FLAVOR=prod", "--web-port=55774"]
+        },
+        {
+            "name": "dev_mob",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--flavor", "dev"]
+        },
+        {
+            "name": "prod_mob",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--flavor", "prod"]
+        }
+    ]
+}
